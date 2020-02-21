@@ -9,5 +9,4 @@
             <column name="INDIRIZZO" type="VARCHAR2(50 BYTE)"/>
         </createTable>
     </changeSet>
-	<include file="src/demomis_tic1111.sql"/>
 </databaseChangeLog>
